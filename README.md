@@ -1,6 +1,8 @@
 BrowserQuest
 ============
 
+[![Join the chat at https://gitter.im/jirwin/BrowserQuest](https://badges.gitter.im/jirwin/BrowserQuest.svg)](https://gitter.im/jirwin/BrowserQuest?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 BrowserQuest is a HTML5/JavaScript multiplayer game experiment.
 
 
